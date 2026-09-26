@@ -1,0 +1,12 @@
+node_modules/
+.env
+**/.env
+.game_stubs/
+.source_backup/
+scripts/
+dist/
+data/progress.json
+data/games_cache.json
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+{
+  "name": "enzocord-discord-gaming-badges-maxer",
+  "version": "1.0.0",
+  "description": "Automated tool to max out Discord Game Variety, Game Time, and Streaming badges - EnzoCord",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "badges",
+    "game-variety",
+    "game-time",
+    "streaming",
+    "enzocord",
+    "omar-elsabbagh"
+  ],
+  "author": "Omar ELSabbagh (EnzoCord)",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ws": "^8.18.0"
+  }
+}
